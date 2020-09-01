@@ -1,0 +1,145 @@
+/* Nav Bar */
+.container-fluid {
+  background-color: black;
+  padding: 1% 10% 2%;
+}
+
+.container-fluid-2{
+  background-color: #ffd571;
+  padding-bottom: 150px;
+
+}
+
+
+/* Title */
+h1 {
+  font-family: "Roboto-Black";
+  font-weight: bold;
+  text-align: center;
+  color: black;
+}
+
+h2{
+  font-size: 1rem;
+}
+
+h3 {
+  font-family: "Roboto-Thin";
+}
+
+.heading-text {
+  padding-top: 50px;
+}
+
+.open-text {
+
+  padding-top: 15px;
+  text-align: center;
+  line-height: 1.5;
+  font-size: 1.5rem;
+}
+
+/* Title Image */
+
+.title-img{
+padding-top: 80px;
+/* margin-left: 550px; */
+min-width: 20%;
+max-width: 20%;
+}
+
+.logo{
+  text-align: center;
+
+  /* height: auto;
+  width: auto; */
+}
+
+/* Features */
+
+#features {
+  padding: 7% 15%;
+  background-color: #fff;
+  margin-top: 30px;
+}
+
+.feature-box {
+  display: inline-block;
+  text-align: center;
+  padding: 5%;
+}
+
+.feature-text {
+  font-size: 1.5rem;
+}
+
+.feature-icon {
+  padding-bottom: 30px;
+}
+
+.feature-icon:hover{
+  color: #ffd571;
+}
+
+/* Carousel */
+
+#Carousel{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ffd571;
+}
+
+.artist-img{
+  width: 50%;
+  margin: 30px;
+}
+
+/* services */
+
+
+#services{
+  padding: 7% 15%;
+  text-align: center;
+}
+
+.services-text{
+  padding-bottom: 50px;
+}
+
+.services-header{
+  padding: 10px 10px;
+}
+
+
+/* Call to action */
+
+#cta{
+  text-align: center;
+  padding: 7% 15%;
+background-color: #ffd571;
+}
+
+.social-icon{
+  color: black;
+  margin: 50px 50px;
+}
+
+.social-icon-fb{
+color: black;
+}
+
+.social-icon-fb:hover{
+  color: #fff;
+  /* width: 0%; */
+}
+.social-icon:hover{
+  color:  #fff;
+}
+
+.social-icon-envelope{
+  color: black;
+}
+
+.social-icon-envelope:hover{
+  color: #fff;
+}
